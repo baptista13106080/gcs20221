@@ -7,7 +7,7 @@ Esta é outra linha que escrevi.
 Algumas linguages que conheco sao:
 - Java
 - C#
-- Pytho
+- Python
 - C++
 
 FIM DO ARQUIVO.
